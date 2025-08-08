@@ -679,6 +679,14 @@ class WebDev100Days {
         category: "utilities",
         technologies: ["HTML", "CSS", "JavaScript", "API"],
         features: ["Visitor Management", "History Tracking", "Search Functionality"]
+      },{
+        originalDay: 167,
+          name: "Flip A Coin with",
+        description: "A filp a coin game with history saved feature in it",
+        demoLink: "./public/flip-a-coin_with_history/index.html",
+        category: "Game",
+        technologies: ["HTML", "CSS", "JavaScript",],
+        features: ["Game", "History Tracking", "Dynamic"]
       }
 
 
